@@ -1,0 +1,4 @@
+Vagrantfile
+.vagrant/
+www/phpmyadmin
+www/blog_app/db.php
